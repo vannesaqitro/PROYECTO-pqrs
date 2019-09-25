@@ -1,0 +1,7 @@
+create database base_datosquejas;
+use base_datosquejas;
+
+create table ingresados(
+	id INT PRIMARY KEY AUTO_INCREMENT, nombre VARCHAR(30), correo VARCHAR(20),comentario Varchar(30)
+
+);

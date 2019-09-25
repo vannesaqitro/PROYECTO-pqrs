@@ -1,0 +1,43 @@
+.estilo {
+	margin: 0;
+	padding: 30px;
+	background:#FFFFFF ;
+	
+}
+h2 {
+	text-align: center;
+	color:#FFFFFF;	
+	
+}
+label{
+	color:#FFFFFF;
+}
+.container{
+	margin: auto;
+	background:#EBF4F7;
+	padding: 30px;
+	border-radius: 12px;
+}
+.formulario{
+	background:#13738C;
+	padding: 30px 20px;
+	width: 95%;
+	margin: auto;
+	max-width: 700px;
+	border-radius: 8px;
+}
+.tabla{
+	padding: 20px 50px;
+	background:#13738C;
+	margin: auto;
+	max-width: 900px;
+	border-radius: 8px;
+}
+
+ .btn-outline-info {
+	margin: auto;
+
+}
+
+.table th {background-color: #B6C7D5; }
+.table td {background-color:#E3F1F4; }
